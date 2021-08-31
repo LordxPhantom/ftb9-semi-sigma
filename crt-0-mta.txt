@@ -1,1 +1,1 @@
-{"title":"Hazed","charter":"Lord Phantom(Julzboiy)","origin":"Myriad Violets","icon":"./crt-0-ico_HB2.jpg","chart":"./crt-0-nte_Hazeddifficulty.txt","audio":"./crt-0-aud_Hazed.mp3"}
+{"title":"Hazed","charter":"Lord Phantom(Julzboiy)","origin":"Myriad Violets","icon":"./crt-0-ico_HB2.jpg","chart":"./crt-0-nte_Hazeddifficulty.txt","audio":"./crt-0-aud_Hazed.mp3","information":"Indie local artist from my hometown."}
