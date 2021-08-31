@@ -1,1 +1,1 @@
-{"title":"Star Heaven","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Julian LaCour","icon":"./crt-1-ico_star heavenCover Photo.jpg"}
+{"title":"Star Heaven","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Julian LaCour","icon":"./crt-1-ico_star heavenCover Photo.jpg","audio":"./crt-1-aud_Star Heaven.mp3"}
