@@ -1,1 +1,0 @@
-{"title":"RED ZONE","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Tatsh&Naoki","icon":"./crt-2-ico_New cover.jpg","audio":"./crt-2-aud_RED ZONE--- --ver.mp3","chart":"./crt-2-nte_HARD.txt","information":"Re-up"}
