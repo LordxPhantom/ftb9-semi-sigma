@@ -1,1 +1,1 @@
-{"title":"Superbeast","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt"}
+{"title":"Superbeast","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Rob Zombie"}
