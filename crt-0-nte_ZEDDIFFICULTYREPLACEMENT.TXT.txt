@@ -1,5 +1,4 @@
 ###FILE ALREADY PARSED###
-$~DIFF 0
 !~BPMS
 0 92
 !~END
