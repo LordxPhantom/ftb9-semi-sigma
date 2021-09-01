@@ -1,1 +1,1 @@
-{"title":"Hazed","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Myriad Violets","icon":"./crt-0-ico_HB2.jpg","chart":"./crt-0-nte_Hazeddifficulty.txt","audio":"./crt-0-aud_Hazed.mp3","information":"Indie local artist from my hometown."}
+{"title":"Hazed","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Myriad Violets","icon":"./crt-0-ico_HB2.jpg","chart":"./crt-0-nte_ZEDDIFFICULTYREPLACEMENT.TXT.txt","audio":"./crt-0-aud_Hazed.mp3","information":"Indie local artist from my hometown."}
