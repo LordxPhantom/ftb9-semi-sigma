@@ -1,1 +1,1 @@
-{"title":"Superbeast","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Rob Zombie","audio":"./crt-2-aud_Rob Zombie - Superbeast.mp3","chart":"./crt-2-nte_SBimposs.ft2.txt","information":".","icon":"./crt-2-ico_Superbeast image.jpg"}
+{"title":"Superbeast","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Rob Zombie","audio":"./crt-2-aud_Rob Zombie - Superbeast.mp3","chart":"./crt-2-nte_SBimposss.ft2","information":".","icon":"./crt-2-ico_Superbeast image.jpg"}
