@@ -1,1 +1,1 @@
-{"title":"The Sound (feat. Mayhem)","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Jackal Queenston","icon":"./crt-0-ico_folder.png"}
+{"title":"The Sound (feat. Mayhem)","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Jackal Queenston","icon":"./crt-0-ico_folder.png","audio":"./crt-0-aud_06 The Sound (feat. Mayhem) 1.mp3"}
