@@ -1,1 +1,1 @@
-{"title":"The Sound (feat. Mayhem)","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Jackal Queenston"}
+{"title":"The Sound (feat. Mayhem)","charter":"raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt","origin":"Jackal Queenston","icon":"./crt-0-ico_folder.png"}
