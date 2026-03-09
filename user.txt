@@ -1,1 +1,1 @@
-{"name":"LordxPhantom","chart-collection":[]}
+{"name":"LordxPhantom","chart-collection":["./crt-0-mta.txt"]}
